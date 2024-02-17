@@ -5,7 +5,7 @@ from openai import OpenAI
 
 
 
-OPEN_AI_KEY = "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"
+OPEN_AI_KEY = "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"
 embeddings_model = OpenAIEmbeddings(openai_api_key=OPEN_AI_KEY)
 model = "gpt-3.5-turbo"
 openai_client = OpenAI(api_key = OPEN_AI_KEY)
