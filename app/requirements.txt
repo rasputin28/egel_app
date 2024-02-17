@@ -1,3 +1,5 @@
 openai
 langchain
 chromadb
+tiktoken
+pysqlite3-binary
